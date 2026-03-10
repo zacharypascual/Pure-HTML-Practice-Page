@@ -1,0 +1,67 @@
+html {
+    color: #463e3e;
+    font-family: "Silkscreen", sans-serif;
+    letter-spacing: normal;
+    word-spacing: 5px;
+    background-image: url(giphy.gif), none;
+    background-attachment: fixed;
+    background-size: cover;
+    font-size: 25px;
+}
+
+h1 {
+    font-weight: 700;
+    font-style: normal;
+    font-size: 3rem;
+    text-shadow: #57595B 3px 3px 3px;
+}
+
+h2 {
+    font-weight: 700;
+    font-style: normal;
+    font-size: 2rem;
+    text-shadow: #57595B 5px 5px 5px;
+}
+
+p {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1rem;
+}
+
+.header {
+    text-align: center;
+}
+
+.aboutpage {
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.347);
+    border-radius: 75px;
+    border-style: dashed;
+}
+
+.image {
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.347);
+    border-radius: 75px;
+    border-style: dashed;
+}
+
+.sampleTable {
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.347);
+    border-radius: 75px;
+    border-style: dashed;
+}
+
+.spacing {
+    white-space: pre;
+}
+
+.table {
+    margin: auto;
+}
+
+
+
+
